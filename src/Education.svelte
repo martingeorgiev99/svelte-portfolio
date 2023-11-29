@@ -19,7 +19,7 @@
     width: 200px;
     height: auto;
     margin-right: 20px;
-    animation: yourAnimation 1s infinite;
+    animation: animation 1s infinite;
     border-radius: 50%;
   }
 
