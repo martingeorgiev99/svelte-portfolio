@@ -8,7 +8,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    height: 70px;
+    height: 60px;
     background-color: #2b2a2a;
     display: flex;
     justify-content: space-between;
