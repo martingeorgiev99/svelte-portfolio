@@ -60,7 +60,7 @@
     <img class="animated-image" src="/images/moon.gif" alt="Animated Waves" />
     <div class="education-text">
       <h1>Educational <span>Background</span></h1>
-      <p>“A person who won’t read has no advantage over a person who can’t read.” — Mark Twain</p>
+      <p>“A person who will not read has no advantage over a person who cannot read.” — Mark Twain</p>
     </div>
   </div>
 
